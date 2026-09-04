@@ -1,0 +1,33 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Thor's Mace Behavior Pack",
+    "description": "Adds Mjolnir with lightning smash attacks!",
+    "uuid": "a1b2c3d4-e5f6-7890-abcd-ef0123456789",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 50],
+    "languages": [
+      "en_US"
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b2c3d4e5-f678-90ab-cdef-012345678901",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "c3d4e5f6-7890-abcd-ef01-234567890123",
+      "entry": "scripts/main.js",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.13.0"
+    }
+  ]
+}

@@ -8,7 +8,7 @@ Thor Mace will not prevent you from burning with the lighting strike (Its power 
 
 Thor Mace will not have the damage effect when you hit from a high place, so fall damage still exists , and you wont see that epic mace effect.
 
-Thor Mace will summon lighting upon impact of any mob or player, so if you are in close combat, and you have your resources, but you need to deal good damage, just switch from your sword to you Thor Mace and light your oppent up!
+Thor Mace will summon lighting upon impact of any mob or player, so if you are in close combat, and you have your resources, but you need to deal good damage, just switch from your sword to your Thor Mace and light your oppent up!
 
 How to Use
 
